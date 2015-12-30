@@ -2,14 +2,11 @@
     "name": "fit-modal",
     "description": "模态框",
     "repos": "https://github.com/2betop/placeholder.git",
-    "main": "index.js",
+    "main": "lib/index.js",
     "tag": "master",
     "reposType": "npm",
     "dependencies": {
-        "fit-style": "^1.0.42"
+        "fit-style": "^1.0.45"
     },
-    "version": "1.0.24",
-    "paths": {
-        "dist": "."
-    }
+    "version": "1.0.27"
 }
