@@ -6,7 +6,10 @@
     "tag": "master",
     "reposType": "npm",
     "dependencies": {
-        "fit-style": "^1.0.35"
+        "fit-style": "^1.0.42"
     },
-    "version": "1.0.17"
+    "version": "1.0.24",
+    "paths": {
+        "dist": "."
+    }
 }
