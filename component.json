@@ -6,7 +6,7 @@
     "tag": "master",
     "reposType": "npm",
     "dependencies": {
-        "fit-style": "^1.0.48"
+        "fit-style": "^1.0.55"
     },
-    "version": "1.0.30"
+    "version": "1.0.34"
 }
